@@ -6,4 +6,4 @@
 - p2-random-files.txt: List of current (at the time of creation) files in the git repo.
 - p2-vscode-diff.png: Showing the differences in code of the .gitignore file within vscode. 
   <img src="./random-string.jpg" alt="random-string.jpg" width="968" height="648">
-*My random string jpg*
+*My random string jpg to illustrate my project*
