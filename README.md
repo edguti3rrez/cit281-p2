@@ -5,4 +5,4 @@
 - p2-random.js: Is used to produce a string of random length from min to max and lists the letters in ascending order.
 - p2-random-files.txt: List of current (at the time of creation) files in the git repo.
 - p2-vscode-diff.png: Showing the differences in code of the .gitignore file within vscode. 
-<img src="./random-string" alt="random-string.png" width="" height="">
+<img src="./random-string.jpg" alt="random-string.jpg" width="" height="">
