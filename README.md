@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## File Overview;
 
-You can use the [editor on GitHub](https://github.com/edguti3rrez/cit281-p2/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/edguti3rrez/cit281-p2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- p2-expressions.js: Several refactored function expressions that produces a string of random length from min to max and lists the letters in ascending order.
+- p2-random-commits.txt: Shows the steps in my git commits (and their comments) while adjusting p2-random.js.
+- p2-random.js: Is used to produce a string of random length from min to max and lists the letters in ascending order.
+- p2-random-files.txt: List of current (at the time of creation) files in the git repo.
+- p2-vscode-diff.png: Showing the differences in code of the .gitignore file within vscode. 
+<img src="./random-string" alt="random-string.png" width="" height="">
